@@ -20,10 +20,20 @@ function HomePage() {
           networking career and gain experience.
         </p>
         <div className="icons">
-          <a href="https://codepen.io/pen/" className="icon i-facebook">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.facebook.com/Nabilllllllllllllll"
+            className="icon i-facebook"
+          >
             <FacebookIcon />
           </a>
-          <a href="https://codepen.io/pen/" className="icon i-linkedin">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.linkedin.com/in/mohamed-n-gaber/"
+            className="icon i-linkedin"
+          >
             <LinkedInIcon />
           </a>
         </div>
