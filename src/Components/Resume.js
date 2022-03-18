@@ -59,16 +59,6 @@ function Resume() {
             }
           />
           <ResumeItem
-            year={"Apr 2020 - Oct 2020"}
-            title={"L&D member"}
-            subTitle={
-              " The Duke of Edinburgh's International Award FoundationThe Duke of Edinburgh's International Award Foundation "
-            }
-            text={
-              "The Duke of Edinburgh’s International Award is a non-formal education and learning framework operating in more than 130 countries and territories around the world, through which young people’s achievements outside of academia are recognised and celebrated. "
-            }
-          />
-          <ResumeItem
             year={"Jun 2015 - Jan 2021"}
             title={"Co-Founder"}
             subTitle={"EMC team ( Empowering and Motivating Creatives ) "}
