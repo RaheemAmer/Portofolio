@@ -10,13 +10,29 @@ function Skills() {
       <Title title={"My Skills"} span={"my skills"} />
       <InnerLayout>
         <div className="skills">
-          <ProgressBar title={"Cyber Security"} width={"70%"} text={"70%"} />
-          <ProgressBar title={"Ethical Hacking"} width={"90%"} text={"90%"} />
-          <ProgressBar title={"JAVASCRIPT"} width={"85%"} text={"85%"} />
-          <ProgressBar title={"JAVA"} width={"60%"} text={"60%"} />
-          <ProgressBar title={"PYTHON"} width={"95%"} text={"95%"} />
-          <ProgressBar title={"React JS"} width={"75%"} text={"75%"} />
-          <ProgressBar title={"UNITY"} width={"75%"} text={"75%"} />
+          <ProgressBar
+            title={"Application Development Security"}
+            width={"70%"}
+            text={"70%"}
+          />
+          <ProgressBar
+            title={"Security Incident Handling & Response"}
+            width={"90%"}
+            text={"90%"}
+          />
+          <ProgressBar title={"Cloud Security"} width={"85%"} text={"85%"} />
+          <ProgressBar
+            title={"Threat Intelligence "}
+            width={"60%"}
+            text={"60%"}
+          />
+          <ProgressBar
+            title={"Identify and Access Management (IAM) "}
+            width={"95%"}
+            text={"95%"}
+          />
+          <ProgressBar title={"Data Security "} width={"75%"} text={"75%"} />
+          <ProgressBar title={"Risk Management"} width={"75%"} text={"75%"} />
         </div>
       </InnerLayout>
     </SkillsStyled>
