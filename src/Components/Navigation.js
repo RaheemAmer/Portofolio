@@ -38,7 +38,7 @@ function Navigation() {
       </ul>
       <footer className="footer">
         <p>
-          @2021 <b>Lorem Ipsum</b>
+          @2022 <b>Raheem Amer</b>
         </p>
       </footer>
     </NavigationStyled>

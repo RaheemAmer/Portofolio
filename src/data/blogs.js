@@ -1,7 +1,7 @@
-import blog1 from  '../img/blogs/blog1.svg';
-import blog3 from  '../img/blogs/blog3.svg';
-import blog2 from  '../img/blogs/blog2.svg';
-import blog4 from  '../img/blogs/blog4.svg';
+import blog1 from '../img/blogs/blog1.svg';
+import blog3 from '../img/blogs/blog3.svg';
+import blog2 from '../img/blogs/blog2.svg';
+import blog4 from '../img/blogs/blog4.svg';
 
 const blogs = [
     {
@@ -9,14 +9,16 @@ const blogs = [
         title: 'How To Work from Home',
         date: '01',
         month: 'April',
-        image: blog1
+        image: blog1,
+        link: 'https://www.google.co.uk/',
     },
     {
         id: 2,
         title: 'How To Use SEO Efficiently',
         date: '01',
         month: 'April',
-        image: blog2
+        image: blog2,
+        link: 'https://www.google.co.uk/',
     },
     {
         id: 3,
@@ -24,21 +26,15 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog3,
-        link: 'https://www.google.co.uk/'
+        link: 'https://www.google.co.uk/',
     },
     {
         id: 4,
-        title: 'How To Tse SEO Efficiently',
+        title: 'How To Use SEO Efficiently',
         date: '01',
         month: 'April',
-        image: blog4
-    },
-    {
-        id: 5,
-        title: 'How To Tse SEO Efficiently',
-        date: '01',
-        month: 'April',
-        image: blog4
+        image: blog4,
+        link: 'https://www.google.co.uk/',
     }
 ]
 
